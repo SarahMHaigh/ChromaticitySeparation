@@ -2,7 +2,7 @@
 
 Requirements: everything runs in MATLAB. Stimulus presentation scripts need Psychtoolbox, and EEG analyses needs EEGLAB and ERPLAB. All of these toolboxes are free to download.
 
-ERPs in migraine:
+## ERPs in migraine:
 
 Studies investigating the neural response to colors that vary in their CIE UCS chromaticity separation.
 
@@ -17,13 +17,13 @@ Studies investigating the neural response to colors that vary in their CIE UCS c
 Haigh, S. M., Chamanzar, A., Grover, P., & Behrmann, M. (2019). Cortical Hyper‐Excitability in Migraine in Response to Chromatic Patterns. Headache: The Journal of Head and Face Pain, 59(10), 1773–1787. https://doi.org/10.1111/head.13620
 
 
-Psychophysical Measures:
+## Psychophysical Measures:
 
 - The code used to estimate equivalent noise thresholds and spatial summation/suppression for stimuli that vary in their chromaticity separation: EquivNoise.m
 
 - Stimuli associated: Stimuli.zip
 
-Other publications detailing behavioral and neural response to chromaticity separation:
+## Other publications detailing behavioral and neural response to chromaticity separation:
 
 (1) Haigh, S.M., Jaschinski, W., Allen, P. M., & Wilkins, A. J. (2013). Accommodation to uncomfortable patterns. Perception, 42(2). https://doi.org/10.1068/p7397
 
