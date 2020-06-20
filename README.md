@@ -1,5 +1,7 @@
 # ChromaticitySeparation
 
+Requirements: everything runs in MATLAB. Stimulus presentation scripts need Psychtoolbox and EEG analyses needs EEGLAB and ERPLAB. All of these toolboxes are free to download.
+
 ERPs in migraine:
 
 Studies investigating the neural response to colors that vary in their CIE UCS chromaticity separation.
