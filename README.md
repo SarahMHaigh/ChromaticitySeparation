@@ -16,6 +16,11 @@ Studies investigating the neural response to colors that vary in their CIE UCS c
 
 Haigh, S. M., Chamanzar, A., Grover, P., & Behrmann, M. (2019). Cortical Hyper‐Excitability in Migraine in Response to Chromatic Patterns. Headache: The Journal of Head and Face Pain, 59(10), 1773–1787. https://doi.org/10.1111/head.13620
 
+## ERPs in migraine:
+
+Steady-state visual evoked potentials (SSVEPs) to chromatic gratings that vary in their CIE UCS chromaticity separation. The code and stimuli used are all in Lindquist2020.zip. The screen used had particularly high luminance for the green pixels. Alternates gratings with a grey screen at 5Hz while letters presented in the center of the screen (for the CPT) changed at 3Hz.
+
+Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (under review). The effects of visual discomfort and chromaticity separation on neural processing during a visual task.
 
 ## Psychophysical Measures:
 
