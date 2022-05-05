@@ -1,4 +1,4 @@
-# ChromaticitySeparation
+# Chromaticity Separation
 
 Requirements: everything runs in MATLAB. Stimulus presentation scripts need Psychtoolbox. EEG analyses need EEGLAB and ERPLAB. All of these toolboxes are free to download.
 
