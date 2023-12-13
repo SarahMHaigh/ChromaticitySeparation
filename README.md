@@ -37,3 +37,7 @@ Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visu
 (3) Haigh, S M, Cooper, N. R., & Wilkins, A. J. (2018). Chromaticity separation and the alpha response. Neuropsychologia, 108, 1–5. https://doi.org/https://doi.org/10.1016/j.neuropsychologia.2017.11.020
 
 (4) Haigh, Sarah M, Barningham, L., Berntsen, M., Coutts, L. V, Hobbs, E. S. T., Irabor, J., … Wilkins, A. J. (2013). Discomfort and the cortical haemodynamic response to coloured gratings. Vision Research, 89(0), 47–53. https://doi.org/http://dx.doi.org/10.1016/j.visres.2013.07.003
+
+______
+
+Questions? Email shaigh at unr dot edu
