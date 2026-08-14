@@ -41,3 +41,5 @@ Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visu
 ______
 
 Questions? Email shaigh at unr dot edu
+
+For more information, see: https://sarahmhaigh.github.io/
