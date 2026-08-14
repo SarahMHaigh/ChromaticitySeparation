@@ -20,7 +20,7 @@ Haigh, S. M., Chamanzar, A., Grover, P., & Behrmann, M. (2019). Cortical Hyperâ€
 
 Steady-state visual evoked potentials (SSVEPs) to chromatic gratings that vary in their CIE UCS chromaticity separation. The code and stimuli used are all in Lindquist2020.zip. The screen used had particularly high luminance for the green pixels. Alternates gratings with a grey screen at 5Hz while letters presented in the center of the screen (for the CPT) changed at 3Hz.
 
-Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. Vision Research. 182, 27-35. https://doi.org/10.1016/j.visres.2021.01.007![image](https://user-images.githubusercontent.com/62577725/119199194-83179980-ba3f-11eb-8674-1fa3f2a5db33.png)
+Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. Vision Research. 182, 27-35. https://doi.org/10.1016/j.visres.2021.01.007
 
 ## Psychophysical Measures:
 
